@@ -32,6 +32,7 @@ button{
     width: 170px;
     color: white;
     background-color: rgb(10, 36, 128, 0.848);
+    border-radius: 2px;
 }
     
 .AB{
